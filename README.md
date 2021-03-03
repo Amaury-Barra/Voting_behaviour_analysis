@@ -1,0 +1,2 @@
+# Voting_behaviour_analysis
+This project aims at analyzing the movement of votes between the first and second round of 2012 French presidential election. The estimation is based using a Seemingly Unrelated Equation System (also known as Zellner model). It allow to analyze how vote from first tour eliminated candidates will drift to one of the two remaining candidates (or to abstention). This was part of an end of study project coded in stata which code is provided at the end of the essai.
